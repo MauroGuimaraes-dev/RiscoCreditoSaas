@@ -38,6 +38,7 @@ model = train_model()
 
 # título
 st.title("Sistema de Previsão de Risco do Cliente para Concessão de Empréstimos")
+st.markdown("##### Desenvolvido por Mauro Guimarães")
 
 # subtítulo
 st.markdown("Este é um Aplicativo utilizado para exibir a solução de Ciência de Dados para o problema de predição de Risco do Cliente para concessão de empréstimos.")
